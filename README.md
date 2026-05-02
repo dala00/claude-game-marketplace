@@ -9,7 +9,7 @@ alphabrend が作った**ゲームを Claude Code 上でプレイできるよう
 Claude Code でこのマーケットプレイスを登録する:
 
 ```
-/plugin marketplace add <このリポジトリの URL>
+/plugin marketplace add https://github.com/dala00/claude-game-marketplace
 ```
 
 以降は各ゲームを個別にインストールできます。
