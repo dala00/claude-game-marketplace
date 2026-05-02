@@ -1,0 +1,12 @@
+{
+  "name": "claude-game-marketplace",
+  "owner": {
+    "name": "alphabrend",
+    "email": "alphabrend@gmail.com"
+  },
+  "metadata": {
+    "description": "alphabrend が作ったゲームを Claude Code 上でプレイできるようにするプラグイン集",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
