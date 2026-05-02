@@ -1,0 +1,9 @@
+{
+  "name": "mini-adventure",
+  "version": "0.1.0",
+  "description": "テキストアドベンチャー。story/ のシーンファイルを順に読みながらプレイヤーの行動入力に応じて物語を進める",
+  "author": {
+    "name": "alphabrend"
+  },
+  "keywords": ["adventure", "text-game", "interactive-fiction"]
+}

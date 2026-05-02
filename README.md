@@ -15,25 +15,11 @@ Claude Code から以下を実行:
 
 インストール後はスラッシュコマンド（例: `/<game-name>`）でゲームを開始できます。
 
-## ディレクトリ構成
+## 収録ゲーム
 
-```
-claude-game-marketplace/
-├── .claude-plugin/
-│   └── marketplace.json        # マーケットプレイス定義（plugins は空）
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
-ゲームはまだ未収録。`plugins/<game-name>/` を作って追加していく。
-
-## ゲームを追加する
-
-1. `plugins/<game-name>/` を作成
-2. `plugins/<game-name>/.claude-plugin/plugin.json` にメタデータを記述
-3. `skills/` `commands/` `agents/` などにゲーム本体を配置
-4. ルートの `.claude-plugin/marketplace.json` の `plugins[]` に登録
+| ゲーム | ジャンル | 概要 |
+| --- | --- | --- |
+| `mini-adventure` | テキストアドベンチャー | プレイヤーの行動入力で物語が進むコマンド入力型ADV |
 
 ## ライセンス
 

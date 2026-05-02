@@ -8,5 +8,13 @@
     "description": "alphabrend が作ったゲームを Claude Code 上でプレイできるようにするプラグイン集",
     "version": "0.1.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "mini-adventure",
+      "source": "./plugins/mini-adventure",
+      "description": "テキストアドベンチャー。同梱シーンファイルを順に読みながらプレイヤー入力で物語を進める",
+      "category": "game",
+      "tags": ["adventure", "text-game"]
+    }
+  ]
 }
