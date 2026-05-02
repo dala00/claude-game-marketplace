@@ -4,22 +4,35 @@ alphabrend が作った**ゲームを Claude Code 上でプレイできるよう
 
 各プラグインは 1 本のゲームに対応し、スキル / スラッシュコマンドとして提供されます。Claude Code をゲーム機代わりに、対話しながら遊べます。
 
-## インストール
+## はじめに（初回のみ）
 
-Claude Code から以下を実行:
+Claude Code でこのマーケットプレイスを登録する:
 
 ```
 /plugin marketplace add <このリポジトリの URL>
-/plugin install <game-name>@claude-game-marketplace
 ```
 
-インストール後はスラッシュコマンド（例: `/<game-name>`）でゲームを開始できます。
+以降は各ゲームを個別にインストールできます。
+
+---
 
 ## 収録ゲーム
 
-| ゲーム | ジャンル | 概要 |
-| --- | --- | --- |
-| `mini-adventure` | テキストアドベンチャー | プレイヤーの行動入力で物語が進むコマンド入力型ADV |
+### mini-adventure — 短編テキストアドベンチャー
+
+気づくと暗い小部屋に閉じ込められている——テーブルの上には一通の封筒。謎を解き、三つの部屋を抜けた先で、お前は自分自身と向き合うことになる。
+
+**インストール:**
+```
+/plugin install mini-adventure@claude-game-marketplace
+```
+
+**プレイ開始:**
+```
+/mini-adventure:play
+```
+
+---
 
 ## ライセンス
 
