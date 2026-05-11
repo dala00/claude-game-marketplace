@@ -1,0 +1,9 @@
+{
+  "name": "reversi",
+  "version": "0.1.0",
+  "description": "リバーシ (オセロ)。AI と会話しながら対戦できる。盤面操作は同梱の Node.js スクリプトが行うため、合法手判定や石のひっくり返しは決定論的に処理される",
+  "author": {
+    "name": "alphabrend"
+  },
+  "keywords": ["reversi", "othello", "board-game"]
+}

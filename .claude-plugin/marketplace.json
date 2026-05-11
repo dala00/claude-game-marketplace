@@ -15,6 +15,13 @@
       "description": "テキストアドベンチャー。同梱シーンファイルを順に読みながらプレイヤー入力で物語を進める",
       "category": "game",
       "tags": ["adventure", "text-game"]
+    },
+    {
+      "name": "reversi",
+      "source": "./plugins/reversi",
+      "description": "リバーシ (オセロ)。AI と会話しながら対戦できる。盤面更新は同梱の Node.js エンジンが処理するため判定が常に正確",
+      "category": "game",
+      "tags": ["reversi", "othello", "board-game"]
     }
   ]
 }

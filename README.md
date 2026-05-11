@@ -32,6 +32,20 @@ Claude Code でこのマーケットプレイスを登録する:
 /mini-adventure:play
 ```
 
+### reversi — リバーシ (オセロ)
+
+AI と会話しながら対戦できるリバーシ。先手後手と難易度（easy / normal / hard）を選んで開始。盤面の更新と AI の手選択は同梱の Node.js エンジンが処理するので、合法手判定や石のひっくり返しは常に正確。
+
+**インストール:**
+```
+/plugin install reversi@claude-game-marketplace
+```
+
+**プレイ開始:**
+```
+/reversi:play
+```
+
 ---
 
 ## ライセンス
