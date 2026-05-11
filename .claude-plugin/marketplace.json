@@ -19,7 +19,7 @@
     {
       "name": "reversi",
       "source": "./plugins/reversi",
-      "description": "リバーシ (オセロ)。AI と会話しながら対戦できる。盤面更新は同梱の Node.js エンジンが処理するため判定が常に正確",
+      "description": "リバーシ。AI と会話しながら対戦できる。盤面更新は同梱の Node.js エンジンが処理するため判定が常に正確",
       "category": "game",
       "tags": ["reversi", "othello", "board-game"]
     }
