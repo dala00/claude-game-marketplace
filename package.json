@@ -1,0 +1,9 @@
+{
+  "name": "claude-game-marketplace",
+  "version": "0.1.0",
+  "description": "alphabrend が作ったゲームを Claude Code 上でプレイできるようにするマーケットプレイス",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
