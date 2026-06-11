@@ -1,0 +1,9 @@
+{
+  "name": "dawn-chalice",
+  "version": "0.1.0",
+  "description": "推理アドベンチャー『暁の聖杯』。夜ごと魔物除けの結界に閉ざされる山あいの修道院で、王都の聖遺物鑑定官が殺される。遍歴の魔導具修理師となって、刻印と灯りの残した矛盾から真相を解き明かす",
+  "author": {
+    "name": "alphabrend"
+  },
+  "keywords": ["mystery", "adventure", "text-game", "detective", "fantasy", "interactive-fiction"]
+}
