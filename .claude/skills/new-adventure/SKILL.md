@@ -74,6 +74,9 @@ plugins/<game-name>/
 
 - `plugin.json`: `name` / `version` / `description` / `author`（name: alphabrend）/ `keywords`
 - `skills/play/SKILL.md`: **frontmatter `name: play` 固定**。本文に起動シーケンス・進行ループ・絶対ルール・ナレーション規約を書く。snow-lantern-mystery の SKILL.md をテンプレに流用してよい
+- 絶対ルール（SKILL.md）とハブの注意には、次の 2 つを必ず含める（既存 3 作の推理ものと同文でよい）:
+  1. **「コア証拠」「フラグ」「移行条件」等の台帳用語・メタ区分をプレイヤーに出力しない**（証拠一覧表示でもコア印や残数を見せない）
+  2. **ヒントで未獲得証拠の在処（場所・人物）を名指しで教えない**（獲得済みの証拠・証言からの遠回しな水向けまで。行き先はプレイヤーに選ばせる）
 
 ### ステップ 3 — シーンファイルを書く（ネタバレ防止規約を守る）
 
