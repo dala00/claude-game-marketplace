@@ -4,6 +4,8 @@
 
 ## 新しいゲームを追加するときの必須手順
 
+アドベンチャー / 推理アドベンチャー（mini-adventure・snow-lantern-mystery 系の「ネタバレ防止シーン分割」型）を作る場合は、オーサリング手順書スキル **`/new-adventure`**（`.claude/skills/new-adventure/`）に設計→生成→登録→到達可能性チェックまでの段取りがまとまっている。それ以外も含む共通の必須手順は以下:
+
 1. `plugins/<game-name>/.claude-plugin/plugin.json` と `plugins/<game-name>/skills/play/SKILL.md` を作成
    - **スキル名は `play` で統一する**（SKILL.md frontmatter `name: play`）。プラグイン提供スキルは `/<plugin>:<skill>` 形式で呼ばれるため、これにより全ゲームが `/<game-name>:play` で揃う
 2. `.claude-plugin/marketplace.json` の `plugins[]` に登録
