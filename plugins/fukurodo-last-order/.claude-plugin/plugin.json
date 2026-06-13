@@ -1,0 +1,9 @@
+{
+  "name": "fukurodo-last-order",
+  "version": "0.1.0",
+  "description": "推理アドベンチャー『ふくろう堂のラストオーダー』。商店街の喫茶店主の転落死——警察の結論は事故。納得できない娘に雇われた私立探偵となり、聞き込みと現場検証で夜の真相を解き明かす",
+  "author": {
+    "name": "alphabrend"
+  },
+  "keywords": ["mystery", "adventure", "text-game", "detective", "interactive-fiction"]
+}
