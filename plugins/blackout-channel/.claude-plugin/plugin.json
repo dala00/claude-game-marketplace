@@ -1,6 +1,6 @@
 {
   "name": "blackout-channel",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "推理アドベンチャー『停電チャンネル』。台風と停電が閉ざしたクリエイターシェアハウスで起きた殺人事件を、ゲームデバッガーとなって聞き込みとログ検証で解き明かす",
   "author": {
     "name": "alphabrend"
