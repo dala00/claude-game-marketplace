@@ -14,42 +14,84 @@
       "source": "./plugins/mini-adventure",
       "description": "テキストアドベンチャー。同梱シーンファイルを順に読みながらプレイヤー入力で物語を進める",
       "category": "game",
-      "tags": ["adventure", "text-game"]
+      "tags": [
+        "adventure",
+        "text-game"
+      ]
     },
     {
       "name": "reversi",
       "source": "./plugins/reversi",
       "description": "リバーシ。AI と会話しながら対戦できる。盤面更新は同梱の Node.js エンジンが処理するため判定が常に正確",
       "category": "game",
-      "tags": ["reversi", "othello", "board-game"]
+      "tags": [
+        "reversi",
+        "othello",
+        "board-game"
+      ]
     },
     {
       "name": "snow-lantern-mystery",
       "source": "./plugins/snow-lantern-mystery",
       "description": "推理アドベンチャー『走馬灯の雪』。雪に閉ざされたランプの宿で起きた殺人事件を、聞き込みと現場検証で解き明かす",
       "category": "game",
-      "tags": ["mystery", "adventure", "text-game", "detective"]
+      "tags": [
+        "mystery",
+        "adventure",
+        "text-game",
+        "detective"
+      ]
     },
     {
       "name": "blackout-channel",
       "source": "./plugins/blackout-channel",
       "description": "推理アドベンチャー『停電チャンネル』。台風と停電が閉ざしたクリエイターシェアハウスで起きた殺人事件を、聞き込みとログ検証で解き明かす",
       "category": "game",
-      "tags": ["mystery", "adventure", "text-game", "detective"]
+      "tags": [
+        "mystery",
+        "adventure",
+        "text-game",
+        "detective"
+      ]
     },
     {
       "name": "dawn-chalice",
       "source": "./plugins/dawn-chalice",
       "description": "推理アドベンチャー『暁の聖杯』。夜ごと結界に閉ざされる山あいの修道院で殺された王都の鑑定官——刻印と灯りの残した矛盾を解き明かすファンタジー推理",
       "category": "game",
-      "tags": ["mystery", "adventure", "text-game", "detective", "fantasy"]
+      "tags": [
+        "mystery",
+        "adventure",
+        "text-game",
+        "detective",
+        "fantasy"
+      ]
     },
     {
       "name": "fukurodo-last-order",
       "source": "./plugins/fukurodo-last-order",
       "description": "推理アドベンチャー『ふくろう堂のラストオーダー』。商店街の喫茶店主の転落死——警察の結論は事故。娘に雇われた私立探偵となり、聞き込みと現場検証で夜の真相を解き明かす現代探偵もの",
       "category": "game",
-      "tags": ["mystery", "adventure", "text-game", "detective", "modern"]
+      "tags": [
+        "mystery",
+        "adventure",
+        "text-game",
+        "detective",
+        "modern"
+      ]
+    },
+    {
+      "name": "aosagi-ferry",
+      "source": "./plugins/aosagi-ferry",
+      "description": "推理アドベンチャー『あおさぎ丸の沖待ち』。廃止が決まった離島航路の夜行フェリーで、航路の生殺与奪を握る会長が車両甲板の階段下で死んだ——時化で沖待ちとなった閉ざされた船内、海難調査員となり、入港までに夜の真相を解き明かす",
+      "category": "game",
+      "tags": [
+        "mystery",
+        "adventure",
+        "text-game",
+        "detective",
+        "ferry"
+      ]
     }
   ]
 }

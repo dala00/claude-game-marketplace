@@ -1,0 +1,9 @@
+{
+  "name": "aosagi-ferry",
+  "version": "0.1.0",
+  "description": "推理アドベンチャー『あおさぎ丸の沖待ち』。廃止が決まった離島航路の夜行フェリーで、航路の生殺与奪を握る会長が車両甲板の階段下で死んだ。時化で沖待ちとなった船内、海難調査員・汐見航となり、入港までに夜の真相を解き明かす",
+  "author": {
+    "name": "alphabrend"
+  },
+  "keywords": ["game", "mystery", "adventure", "text-game", "detective", "ferry"]
+}
