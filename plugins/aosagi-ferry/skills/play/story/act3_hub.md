@@ -40,8 +40,8 @@
 |---|---|---|
 | 22 | 【襲撃】 | act3_incident.md |
 | 23 | 【草稿】 | act3_incident.md（または confront/isogai.md） |
-| 24 | 【空室】 | confront/isogai.md（または people_b/isogai_b.md） |
-| 25 | 【連結】 | confront/isogai.md（または people_b/isogai_b.md） |
+| 24 | 【空室】 | confront/isogai.md（people_b/isogai_b.md の誠実経路からも同ファイルに到達） |
+| 25 | 【連結】 | confront/isogai.md（同上） |
 | 26 | 【机】 | areas_b/suite_b.md |
 | 27 | 【隣室】 | areas_b/anteroom.md |
 | 28 | 【擦痕】 | areas_b/cardeck_b.md |
